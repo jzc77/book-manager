@@ -31,5 +31,5 @@ Not shown: Any numbers entered that are out of range, the user will be informed 
 <p>4) As mentioned, all the details of the books are stored in a .txt file, with the first row as the book data description. The appropriate book details are in columns under the headings. The columns are separated by one-tab space. In line 5 of the top screenshot snippet, the book was on Shelf 12 before the user moved it with the program. In the bottom screenshot snippet, the book had been moved to Shelf Island.
 <br><br>
 <img src="images/book-manager-screenshot-4.png" width="870">
-</p>
+</p> 
 
